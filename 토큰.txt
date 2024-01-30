@@ -11,3 +11,17 @@ git push 올리기
 git pull 가져오기
 
 주호야 git 축하해
+
+기존에 github 에 repositories 있으면 
+새로할 때 
+1. git clone "주소"
+2. 수정하고 
+3. git add .
+4. git commit  -m ""
+5. git push
+---
+이미 파일이 있으면 수정 사항이 있으면
+0. git pull 
+1. git add .
+2. git commit  -m ""
+3. git pushs
