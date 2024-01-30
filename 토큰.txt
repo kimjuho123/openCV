@@ -1,0 +1,11 @@
+git config --global user.name "kimjuho123"
+git config --global user.email "juhokim2008@gmail.com"
+git init //git시작
+git statu//현제 상태
+
+git add. //전체파일 추가
+git commit -m "하고 싶은 말"
+
+토큰 : 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
+git push 올리기
+git pull 가져오기
