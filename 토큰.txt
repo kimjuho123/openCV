@@ -9,3 +9,5 @@ git commit -m "하고 싶은 말"
 토큰 : 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
 git push 올리기
 git pull 가져오기
+
+주호야 git 축하해
